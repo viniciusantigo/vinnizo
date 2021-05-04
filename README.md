@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vinnizo?theme=tokyonight)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vinnizo&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnizo)
