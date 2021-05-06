@@ -1,5 +1,9 @@
-### Hi there, I'm Vinícius 👋
+### Hi there, I'm Vinícius Araújo 👋
 
+Looking to be a Full Stack Developer, football lover, programming fan
+
+
+I'm currently learning **Java** and **JavaScript**
 <!--
 **vinnizo/vinnizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,16 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vinnizo&theme=tokyonight&show_icons=true)
+### 📞 How to reach me:
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"/>](https://twitter.com/vinivski)
+[<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vinicius-am/) 
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/vinnizo/)
+
+
+### 🚀💻 Technologies:
+[<img src="https://img.shields.io/badge/Python-black.svg?&style=flat-square&logo=python&logoColor="/>](#)
+[<img src="https://img.shields.io/badge/HTML5-orange.svg?&style=flat-square&logo=html5&logoColor=white"/>](#)
+
+### ⚡ GitHub Stats
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vinnizo&theme=tokyonight&show_icons=true)                                                                                   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnizo&theme=tokyonight&show_icons=true)
-
-
-
-
-
-
-
-### Contact me
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vinivski)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinicius-am/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vinnizo/)
