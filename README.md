@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ### 🚀💻 Technologies:
-[<img src="https://img.shields.io/badge/Python-black.svg?&style=flat-square&logo=python&logoColor="/>](#)
-[<img src="https://img.shields.io/badge/HTML5-orange.svg?&style=flat-square&logo=html5&logoColor=white"/>](#)
-[<img src="https://img.shields.io/badge/CSS3-blue.svg?&style=flat-square&logo=css3&logoColor=white"/>](#)
+[<img src="https://img.shields.io/badge/Python-informational.svg?&style=flat-square&logo=python&logoColor=white"/>](#)
+[<img src="https://img.shields.io/badge/HTML5-important.svg?&style=flat-square&logo=html5&logoColor=white"/>](#)
+[<img src="https://img.shields.io/badge/CSS3-blueviolet.svg?&style=flat-square&logo=css3&logoColor=white"/>](#)
 
 ### ⚡ GitHub Stats
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vinnizo&theme=default&show_icons=true)
