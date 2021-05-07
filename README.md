@@ -3,7 +3,7 @@
 Looking to be a Full Stack Developer, football lover, programming fan
 
 
-I'm currently learning **Java** and **JavaScript**
+I'm currently learning [<img src="https://img.shields.io/badge/Java-black.svg?&style=flat-square&logo=java&logoColor=white"/>](#) and [<img src="https://img.shields.io/badge/JavaScript-black.svg?&style=flat-square&logo=javascript&logoColor=white"/>](#)
 <!--
 **vinnizo/vinnizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
