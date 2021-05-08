@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/CSS3-blueviolet.svg?&style=flat-square&logo=css3&logoColor=white"/>](#)
 
 ### ⚡ GitHub Stats
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vinnizo&theme=default&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnizo&theme=default&show_icons=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vinnizo&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnizo&theme=radical&show_icons=true)
