@@ -1,6 +1,6 @@
 ### Hi there, I'm Vinícius Araújo 👋
 
-Looking to be a Full Stack Developer, football lover, programming fan
+Looking to be a Full Stack Developer, football lover, technology enthusiast
 
 
 I'm currently learning **Java** and **JavaScript** 
